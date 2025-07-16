@@ -1,16 +1,16 @@
-# 🚢 Titanic Survival Prediction
+# Titanic Survival Prediction
 
 This is my first data science project where I build a model to predict which passengers survived the Titanic shipwreck using machine learning techniques.
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 Using the classic Titanic dataset from [Kaggle](https://www.kaggle.com/competitions/titanic), this project explores the data, performs feature engineering, and builds a model to predict survival outcomes.
 
 ---
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Pandas, NumPy
@@ -19,7 +19,7 @@ Using the classic Titanic dataset from [Kaggle](https://www.kaggle.com/competiti
 
 ---
 
-## 📊 Dataset Features
+## Dataset Features
 
 - `PassengerId` – Unique ID  
 - `Pclass` – Ticket class (1, 2, 3)  
@@ -32,7 +32,7 @@ Using the classic Titanic dataset from [Kaggle](https://www.kaggle.com/competiti
 
 ---
 
-## 📈 Key Steps
+## Key Steps
 
 1. Data Cleaning (handled missing values in Age, Embarked)
 2. Exploratory Data Analysis (EDA)
@@ -42,14 +42,14 @@ Using the classic Titanic dataset from [Kaggle](https://www.kaggle.com/competiti
 
 ---
 
-## ✅ Results
+## Results
 
 - Best Accuracy Achieved: **~78%**  
 - Logistic Regression performed well with balanced precision and recall.
 
 ---
 
-## 📁 Files in this Repository
+## Files in this Repository
 
 - `proje 1` – Main notebook with code  
 - `titanic.csv` – Training dataset  
@@ -57,7 +57,7 @@ Using the classic Titanic dataset from [Kaggle](https://www.kaggle.com/competiti
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Try advanced models (XGBoost, SVM)  
 - Use GridSearchCV for hyperparameter tuning  
@@ -65,7 +65,7 @@ Using the classic Titanic dataset from [Kaggle](https://www.kaggle.com/competiti
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
 I’m a Data Science undergraduate passionate about learning through projects.  
 Check out more on my GitHub!
