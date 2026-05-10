@@ -19,7 +19,7 @@ X_train, X_test, y_train, y_test = train_test_split(X,y, test_size = 0.2)
 
 train_data = X_train.join(y_train)
 train_data.hist(figsize = (10,6))
-plt.suptitle("Titanic Dataset - Feature Distributions", fontsize =16)
+plt.suptitle("Titanic Dataset - Feature Distributions", fontsize =15)
 plt.xlabel("value")
 plt.ylabel("Count")
 plt.tight_layout()
