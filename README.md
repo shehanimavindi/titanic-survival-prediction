@@ -71,9 +71,10 @@ Titanic-Survival-Prediction/
 ---
 ## ▶️ How to Run
 
-1️⃣ Install Required Libraries
+- 1️⃣ Install Required Libraries
 pip install pandas numpy matplotlib seaborn scikit-learn
-2️⃣ Run the Project
+
+- 2️⃣ Run the Project
 python main.py
 
 ---
