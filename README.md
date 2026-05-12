@@ -64,30 +64,31 @@ Evaluation Methods:
 ## 📁 Project Structure
 
 Titanic-Survival-Prediction/
-│
-├── titanic.csv
-├── main.py
-├── README.md
+- ├── titanic.csv
+- ├── main.py
+- ├── README.md
 
 ---
 ## ▶️ How to Run
+
 1️⃣ Install Required Libraries
 pip install pandas numpy matplotlib seaborn scikit-learn
 2️⃣ Run the Project
 python main.py
 
 ---
-📈 Future Improvements
-Add more ML algorithms
-Improve feature engineering
-Create a Streamlit web app
-Deploy the project online
+## 📈 Future Improvements
+
+- Add more ML algorithms
+- Improve feature engineering
+- Create a Streamlit web app
+- Deploy the project online
 
 ---
-🎯 Learning Outcomes
-Through this project, I learned:
+## 🎯 Learning Outcomes
 
-Data preprocessing
-Data visualization
-Machine Learning workflow
-Model evaluation techniques
+- Through this project, I learned:
+- Data preprocessing
+- Data visualization
+- Machine Learning workflow
+- Model evaluation techniques
